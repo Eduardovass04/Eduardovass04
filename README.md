@@ -1,7 +1,7 @@
 # Olá, eu sou [Seu Nome] 👋  
 
 🎓 Estudante de **Sistemas de Informação**  
-💻 Apaixonado por **programação** e tecnologia  
+📌 **Status**: Iniciando meus estudos em **Arduino**  
 
 ## Contato  
 
@@ -11,3 +11,4 @@
 ---  
 
 *"Sempre aprendendo e evoluindo no código!"*  
+*  
