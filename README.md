@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome] 👋  
+  
 
 🎓 Estudante de **Sistemas de Informação**  
 📌 **Status**: Iniciando meus estudos em **Arduino**  
