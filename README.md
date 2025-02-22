@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome] 👋
 
-<!--
-**Eduardovass04/Eduardovass04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Formação**: [Seu curso] pela [Sua Universidade] e Técnico em [Sua Especialização]
+- 💻 **Interesses**: [Seus interesses principais, como Programação Competitiva, Data Science, etc.]
+- 🌱 **Atualmente**: [O que você está aprendendo ou desenvolvendo no momento]
 
-Here are some ideas to get you started:
+## Projetos em Destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão alguns dos meus projetos mais recentes:
+
+- [**Nome do Projeto 1**](URL do repositório): Breve descrição do projeto.
+- [**Nome do Projeto 2**](URL do repositório): Breve descrição do projeto.
+- [**Nome do Projeto 3**](URL do repositório): Breve descrição do projeto.
+
+## Contato
+
+- 📫 **Email**: [Seu email]
+- 💼 **LinkedIn**: [Seu perfil no LinkedIn]
+- 📷 **Instagram**: [Seu perfil no Instagram]
+
+---
+
+*Sua mente é o limite para o seu código.*
+
+
+
