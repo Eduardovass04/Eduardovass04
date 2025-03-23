@@ -1,3 +1,4 @@
-![Meu Texto Animado]![coollogo_com-25738587](https://github.com/user-attachments/assets/705bb000-3dc6-4080-86e9-b49157f196a6)
+![Meu Texto Animado]![coollogo_com-25738587]![coollogo_com-2906674](https://github.com/user-attachments/assets/f8341975-ab69-4b4f-8581-81eff0186a4b)
+()
 ()
 
