@@ -3,7 +3,6 @@
 <!-- Texto Animado -->
 <img src="cooltext478830476046430.gif" alt="Meu Texto Animado">
 
----
 
 
 
