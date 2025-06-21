@@ -6,7 +6,8 @@ Precisando de projeto novo para a sua empresa? entre em contato e vamos criar al
 
 <!-- Gráfico de Linguagens -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&layout=compact&langs_count=10&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- Gráfico de Linguagens (GitHub Stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&layout=compact&langs_count=6&theme=radical&hide=html,css&exclude_repo=Python-Scripts-Collection)](https://github.com/Eduardovass04/Python-Scripts-Collection)
 ---
 
 <!-- Botão Instagram -->
