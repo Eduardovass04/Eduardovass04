@@ -7,8 +7,7 @@ Precisando de projeto novo para a sua empresa? entre em contato e vamos criar al
 <!-- Gráfico de Linguagens -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&layout=compact&langs_count=10&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Gráfico de Linguagens do Repositório -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&repo=Python-Sripts-Collection&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&repo=Python-Sripts-Collection&layout=compact&theme=light&hide=c,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Botão Instagram -->
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardovasconcelos04)
