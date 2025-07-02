@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim
 
--  Foco atual em projetos com Python** e C
+-  Foco atual em projetos com Python e C
 -  Em constante aprendizado de ferramentas de desenvolvimento e boas práticas
 
 
