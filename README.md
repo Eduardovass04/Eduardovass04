@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Eduardo! 👋</h1>
 
 <p align="center">
-  Estudante de <strong>Sistemas de Informação</strong> na <strong>UFPI</strong> 🎓 <br>
+  Estudante de Sistemas de Informação na UFPI 🎓 <br>
   
 </p>
 
