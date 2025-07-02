@@ -42,11 +42,5 @@
 
 ---
 
-### 📫 Onde me encontrar
 
-- ✉️ **eduardovass04@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-vasconcelos) *(adicione se tiver)*
 
----
-
-<p align="center"><em>"Transformando curiosidade em código e problemas em soluções."</em></p>
