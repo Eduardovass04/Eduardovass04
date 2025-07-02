@@ -9,9 +9,9 @@
 
 ### 🧠 Sobre mim
 
-- 🐍 Foco atual em projetos com **Python** e **C**
-- 🚀 Em constante aprendizado de ferramentas de desenvolvimento e boas práticas
-- 🔎 Gosto de resolver problemas do dia a dia com **scripts**, **bots** e **lógica**
+-  Foco atual em projetos com Python** e C
+-  Em constante aprendizado de ferramentas de desenvolvimento e boas práticas
+
 
 ---
 
