@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Eduardo! 👋</h1>
+
 
 <p align="center">
   Estudante de Sistemas de Informação na UFPI 🎓 <br>
@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 -  Foco atual em projetos com Python e C
--  Em constante aprendizado de ferramentas de desenvolvimento e boas práticas
+-  Em constante aprendizado de ferramentas de desenvolvimento 
 
 
 ---
