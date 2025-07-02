@@ -2,14 +2,13 @@
 
 <p align="center">
   Estudante de <strong>Sistemas de Informação</strong> na <strong>UFPI</strong> 🎓 <br>
-  Explorando o mundo da programação e buscando soluções criativas com código 💡
+  
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 👨‍💻 Apaixonado por tecnologia e automação
 - 🐍 Foco atual em projetos com **Python** e **C**
 - 🚀 Em constante aprendizado de ferramentas de desenvolvimento e boas práticas
 - 🔎 Gosto de resolver problemas do dia a dia com **scripts**, **bots** e **lógica**
@@ -39,7 +38,6 @@
 
 ### 📂 Repositórios em destaque
 
-- 🔧 [Python-Scripts-Collection](https://github.com/Eduardovass04/Python-Sripts-Collection): Scripts úteis e simples para tarefas cotidianas
 - 📄 [Notas-UFPI](https://github.com/Eduardovass04/notas-ufpi): Anotações e materiais de estudo da graduação
 
 ---
