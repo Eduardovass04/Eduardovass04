@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  Estudante de Sistemas de Informação na UFPI 🎓 <br>
+  Sou Estudante de Sistemas de Informação na UFPI  <br>
   
 </p>
 
