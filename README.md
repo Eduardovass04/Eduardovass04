@@ -35,9 +35,6 @@
 
 ---
 
-### 📂 Repositórios em destaque
-
-- 📄 [Notas-UFPI](https://github.com/Eduardovass04/notas-ufpi): Anotações e materiais de estudo da graduação
 
 ---
 
