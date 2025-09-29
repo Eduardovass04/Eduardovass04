@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 -  Foco atual em projetos com Python 
--  Em constante aprendizado de ferramentas de desenvolvimento 
+-  Em constante aprendizado, busacando desenvolvimento 
 
 
 ---
