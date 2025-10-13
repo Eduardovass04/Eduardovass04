@@ -7,15 +7,14 @@
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 
 -  Foco atual em projetos com Python 
--  Em constante aprendizado, busacando desenvolvimento 
-
+-  Sempre  com humildade ao que diz respeito ao aprendizado
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+###  Tecnologias que utilizo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
