@@ -21,17 +21,21 @@
 
 ---
 
-### 📊 Estatísticas
+---
+## 📊 Performance no GitHub
+
+Esta seção usa cartões personalizados para um visual limpo e profissional, integrando-se perfeitamente ao tema escuro do GitHub.
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Eduardovass04&show_icons=true&theme=dark&bg_color=transparent&title_color=79ff97&text_color=ffffff&icon_color=79ff97&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Eduardovass04&show_icons=true&theme=midnight-purple&bg_color=00000000&hide_border=true&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC"
+    alt="Estatísticas do GitHub"
   />
+  
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&layout=compact&theme=dark&bg_color=transparent&title_color=79ff97&text_color=ffffff&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardovass04&layout=compact&theme=midnight-purple&bg_color=00000000&hide_border=true&title_color=BB86FC&text_color=FFFFFF"
+    alt="Linguagens Mais Usadas"
   />
 </p>
