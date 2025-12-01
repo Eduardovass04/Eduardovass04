@@ -25,7 +25,6 @@
 </p>
 
 <p align="center">
-  <sub>Um detalhe simples que reflete minha jornada na programação 💻</sub>
 </p>
 
 
