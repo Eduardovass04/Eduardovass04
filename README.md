@@ -20,18 +20,12 @@
 </p>
 
 ---
-
----
-
-
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Snake Game Minimalista" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding Minimalista" />
 </p>
 
 <p align="center">
-  <sub>Um detalhe simples para dar vida ao perfil 🐍</sub>
+  <sub>Um detalhe simples que reflete minha jornada na programação 💻</sub>
 </p>
 
----
 
