@@ -22,17 +22,15 @@
 ---
 
 ---
----
 
-## 🎮 Extra
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" alt="Snake Game" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Sonic Running" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Snake Game Minimalista" />
 </p>
 
 <p align="center">
-  <sub>Um toque minimalista para deixar o perfil mais divertido 🚀</sub>
+  <sub>Um detalhe simples para dar vida ao perfil 🐍</sub>
 </p>
 
 ---
