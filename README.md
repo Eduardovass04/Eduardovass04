@@ -6,8 +6,7 @@
 
 ### Mais sobre mim
 
-- Foco atual em projetos com Python  
-- Sempre com humildade no que diz respeito ao aprendizado  
+-lógica de programação/projetos
 
 ---
 
