@@ -6,7 +6,7 @@
 
 ### Mais sobre mim
 
--lógica de programação/projetos
+Lógica de programação/projetos
 
 ---
 
