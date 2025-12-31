@@ -14,8 +14,7 @@ Lógica de programação/projetos
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6de8eb59-ddda-45f8-a707-59c0933f3f8c" />
->
+  <img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa4e9f2c-d0c8-4798-b552-062b2eee6cb2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 </p>
 
