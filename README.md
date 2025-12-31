@@ -13,8 +13,8 @@ Lógica de programação/projetos
 ### 🛠️ Tecnologias que utilizo
 
 <p align="center">
+  
   <img<<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca00275a-f2d2-452f-8347-a7e516857414" />
-
   <img <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa4e9f2c-d0c8-4798-b552-062b2eee6cb2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
 </p>
