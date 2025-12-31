@@ -10,7 +10,7 @@ Lógica de programação/projetos
 
 ---
 
-### 🛠️ Tecnologias que utilizo
+###  Tecnologias que estou estudando e já tenho experiência
 
 <p align="center">
   
