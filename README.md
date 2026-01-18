@@ -13,10 +13,20 @@ Lógica de programação/projetos
 ### Tecnologias que estou estudando e já tenho experiência
 
 <p align="center"><p align="center">
-  <img src="https://logospng.org/download/html-5/logo-html-5-1536.png" width="100" height="100" alt="HTML5" />
-  <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" width="100" height="100" alt="CSS3" />
-  <img src="https://logospng.org/download/javascript/logo-javascript-1536.png" width="100" height="100" alt="JavaScript" />
-  <img src="https://logospng.org/download/python/logo-python-1536.png" width="100" height="100" alt="Python" />
+<p align="center">
+  <!-- Linguagem C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" height="100" alt="C" />
+  
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100" alt="Python" />
+  
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" alt="HTML5" />
+  
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100" alt="Docker" />
+</p>
+
 </p>
 
 </p>
