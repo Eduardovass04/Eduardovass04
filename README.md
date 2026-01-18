@@ -12,11 +12,13 @@ Lógica de programação/projetos
 
 ### Tecnologias que estou estudando e já tenho experiência
 
-<p align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fa138c93-dbf1-47d2-987b-d506c069ab10" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa4e9f2c-d0c8-4798-b552-062b2eee6cb2" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0fc0fe3b-65bd-4021-8ed8-0254ce128bf8" />
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874c1c08-ab88-4ad8-b685-bb540e031359" />
+<p align="center"><p align="center">
+  <img src="https://logospng.org/download/html-5/logo-html-5-1536.png" width="100" height="100" alt="HTML5" />
+  <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" width="100" height="100" alt="CSS3" />
+  <img src="https://logospng.org/download/javascript/logo-javascript-1536.png" width="100" height="100" alt="JavaScript" />
+  <img src="https://logospng.org/download/python/logo-python-1536.png" width="100" height="100" alt="Python" />
+</p>
+
 </p>
 
 ---
