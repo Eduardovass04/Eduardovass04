@@ -12,7 +12,6 @@ Lógica de programação/projetos
 
 ### Tecnologias que estou estudando e já tenho experiência
 
-<p align="center"><p align="center">
 <p align="center">
   <!-- Linguagem C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100" height="100" alt="C" />
@@ -23,13 +22,13 @@ Lógica de programação/projetos
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" alt="HTML5" />
   
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" alt="CSS3" />
+  
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100" alt="Docker" />
 </p>
 
-</p>
-
-</p>
 
 ---
 
