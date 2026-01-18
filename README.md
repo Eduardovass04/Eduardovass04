@@ -10,16 +10,13 @@ Lógica de programação/projetos
 
 ---
 
-###  Tecnologias que estou estudando e já tenho experiência
+### Tecnologias que estou estudando e já tenho experiência
 
 <p align="center">
-  
- <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca00275a-f2d2-452f-8347-a7e516857414" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca00275a-f2d2-452f-8347-a7e516857414" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/aa4e9f2c-d0c8-4798-b552-062b2eee6cb2" />
-   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0fc0fe3b-65bd-4021-8ed8-0254ce128bf8" />
-   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874c1c08-ab88-4ad8-b685-bb540e031359" />
-
-
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0fc0fe3b-65bd-4021-8ed8-0254ce128bf8" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/874c1c08-ab88-4ad8-b685-bb540e031359" />
 </p>
 
 ---
